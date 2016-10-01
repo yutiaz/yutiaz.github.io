@@ -1,0 +1,9 @@
+.navbar-brand img {
+    width: 40px;
+}
+
+.sidebar {
+    height: 200px;
+    background-color: rgba(0, 0, 139, 0.4);
+    font-size: 20px;
+}

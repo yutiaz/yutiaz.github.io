@@ -1,0 +1,75 @@
+/* Ini style buat Header */
+.header {
+    height: 100px;
+}
+.logo {
+    height: 100px;
+    background-color: rgba(165, 42, 42, 0.4);
+}
+
+/* Ini style buat start menu */
+.startmenu {
+    margin: 10px auto 0 auto;
+}
+.startmenu-item li
+{
+    display: inline-block;
+}
+.startmenu-item li a 
+{
+   padding: 5px 10px;
+    background-color: #a9a9a9;
+    padding: 5px 10px 5px 10px;
+}
+.startmenu-item li .Active
+{
+  background-color: #000000;
+    color: #ffffff;
+}
+
+/* Ini style buat carousel */
+.carousel-content {
+    height: 100px;
+    background-color: #bdb76b;
+}
+
+.sidebar {
+    height: 200px;
+    background-color: #e63030;
+}
+
+/* Ini style buat start menu */
+.startmenu {
+    margin: 10px auto 0 auto;
+}
+.startmenu-item li
+{
+    display: inline-block;
+}
+.startmenu-item li a 
+{
+   padding: 5px 10px;
+    background-color: #a9a9a9;
+    padding: 5px 10px 5px 10px;
+}
+.startmenu-item li .Active
+{
+  background-color: #000000;
+    color: #ffffff;
+
+}
+
+.footer 
+{
+    margin: 10px auto 0 auto;
+}
+.text-kanan {
+    text-align: right;
+}
+.red {
+    background-color: #ff7f50;
+}
+.blue {
+    background-color: rgba(0, 0, 139, 0.4);
+}
+
